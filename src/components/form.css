@@ -1,0 +1,19 @@
+form {
+text-align: left;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, bold;
+font-size: 12px;
+}
+
+input {
+ display: block;
+ width: 300px;
+ height: 25px;
+  border-radius: 7px;
+  border: none;
+
+}
+
+ 
